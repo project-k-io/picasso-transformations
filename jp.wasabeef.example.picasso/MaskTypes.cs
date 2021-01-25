@@ -1,0 +1,42 @@
+namespace jp.wasabeef.example.picasso
+{
+    public enum MaskTypes
+    {
+        Mask,
+        NinePatchMask,
+        CropLeftTop,
+        CropLeftCenter,
+        CropLeftBottom,
+        CropCenterTop,
+        CropCenterCenter,
+        CropCenterBottom,
+        CropRightTop,
+        CropRightCenter,
+        CropRightBottom,
+        CropSquareCenterCenter,
+        Crop169CenterCenter,
+        Crop43CenterCenter,
+        Crop31CenterCenter,
+        Crop31CenterTop,
+        CropQuarterCenterCenter,
+        CropQuarterCenterTop,
+        CropQuarterBottomRight,
+        CropHalfWidth43CenterCenter,
+        CropSquare,
+        CropCircle,
+        ColorFilter,
+        Grayscale,
+        RoundedCorners,
+        Blur,
+        Toon,
+        Sepia,
+        Contrast,
+        Invert,
+        Pixel,
+        Sketch,
+        Swirl,
+        Brightness,
+        Kuawahara,
+        Vignette
+    }
+}
