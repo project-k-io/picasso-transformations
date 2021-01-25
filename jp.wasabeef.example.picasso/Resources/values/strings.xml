@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">jp.wasabeef.example.picasso</string>
+    <string name="action_settings">Settings</string>
+</resources>
